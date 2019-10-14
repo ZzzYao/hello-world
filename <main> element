@@ -1,0 +1,5 @@
+https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/main
+
+在文档中，<main> 元素的内容应当是独一无二的。任何同时存在于任意一系列文档中的相同、重复内容，比如侧边栏、导航栏链接、版权信息、网站 Logo，搜索框（除非搜索框为文档的主要功能），都不应当被包含在其内。
+
+<main> 对文档的大纲（outline）没有贡献；也就是说，它与诸如 <body> 之类的元素，诸如 <h2> 之类的标题等不同，<main> 不会影响 DOM 的页面结构概念。它仅有提供信息的作用。（原文：It's strictly informative.）
